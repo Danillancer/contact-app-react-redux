@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "email": "danilrip065r@gmail.com",
+      "password": "$2a$10$xmrmgSKyzGPx4U1C.6t0S.jLHWQmHVGSOu7di2bZmAqO3eVNt4WGS",
+      "id": 1
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$51jEj28SLlAfcqd6eFMls.TBnCxdFw5tHlYKpNUXrGQQ/ofcD62vS",
+      "id": 2
+    },
+    {
+      "email": "danilrip065r@mail.com",
+      "password": "$2a$10$JVH83qhduNX.Wc2DbbvA/.UtgUzQNkPWbmcnXFYc6GSfvPScOOlem",
+      "name": "Данил Дмитриевич Голубов",
+      "id": 3
+    },
+    {
+      "email": "danilrip0652r@mail.com",
+      "password": "$2a$10$dIPf.FvJgoUoygZE//IAauqPVIe1KwyDIFpi7I.m5NZ6kXKbPIHVi",
+      "name": "12312",
+      "id": 4
+    },
+    {
+      "email": "danilrip065121312r@mail.com",
+      "password": "$2a$10$k5aVqzLhhGEEJwYGzTmG..WN6DAWmh5VYR4NcQPk8mBzZurruAqJK",
+      "path": "register",
+      "name": "Danil Golubov",
+      "id": 5
+    },
+    {
+      "email": "danilrip122131123065r@mail.com",
+      "password": "$2a$10$v/x1a6MY5a6gpxEAHYd91elwh3HMdwrdoabZrvHLqLRUmsTnyXn5m",
+      "path": "register",
+      "name": "123",
+      "id": 6
+    },
+    {
+      "email": "danilrip011265r@mail.com",
+      "password": "$2a$10$bCXg0JRGqzj8yLH./WeH/O9SnBBSY/anLDfvpF6SgHUT/lnVrH/Xm",
+      "path": "register",
+      "name": "123123",
+      "id": 7
+    },
+    {
+      "email": "danilrip011265r@mail",
+      "password": "$2a$10$lPJ081ywAFKq9Q2zTRbGde5L7NwCnU.VnraT9imIela8lseP.N.qq",
+      "path": "register",
+      "name": "123312",
+      "id": 8
+    },
+    {
+      "email": "danilri213p011265r@mail",
+      "password": "$2a$10$OR6dtTu.PD29qSr1/PDfMOkToQD00apXr621.t6663H6riD/LB0Ri",
+      "path": "register",
+      "name": "123312",
+      "id": 9
+    },
+    {
+      "email": "dan5r@mail",
+      "password": "$2a$10$W6Q8zTFjS2pL9zc./we5wuXWYPevlJqLpxVCphXGqcIWoqh0xHnsm",
+      "path": "register",
+      "name": "qwe19",
+      "id": 10
+    },
+    {
+      "email": "danilrip@mail.com",
+      "password": "$2a$10$0T68NDXgBlciDLIHYWRFNu58KWby0U7AQLT8pNscGhax.vonX/qkW",
+      "path": "register",
+      "name": "213aqwe",
+      "id": 11
+    },
+    {
+      "email": "danilri123p@mail.com",
+      "password": "$2a$10$X2uXVpMQWEiw0t7y4gOtouluUp/miKaOnpY8UvNjUP8WCW2ucP0Sm",
+      "path": "register",
+      "name": "213312",
+      "id": 12
+    },
+    {
+      "email": "dan213ilrip@mail.com",
+      "password": "$2a$10$9rIorOHFjQk2.eqvBP.Vue.mqPWxYDhXG.Gt0BwCVYKxx3ySF2P8y",
+      "path": "register",
+      "name": "213",
+      "id": 13
+    },
+    {
+      "email": "dan213ilrip@mail.com21",
+      "password": "$2a$10$U9b1fmvR/NTqT04GMfCNVe7XvICOjnkWoyhUVG/i7/xWGcZdKVJYG",
+      "path": "register",
+      "name": "213",
+      "id": 14
+    },
+    {
+      "email": "dan213ilrip@mail.com21231",
+      "password": "$2a$10$LPspwr6zOpnVAxwVM7cXb.dqI1GQlLQtf6b2vF1yUWmuRGjUbKxu6",
+      "path": "register",
+      "name": "12312",
+      "id": 15
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$qK8pQLDNtru3O10CG5tCsu4gPPRwHeuYGyBV4e1phAPtk5urgjohS",
+      "path": "register",
+      "name": "1231",
+      "id": 16
+    },
+    {
+      "email": "tes1t@gmail.com",
+      "password": "$2a$10$UpUQ/hF295pIAQMyH84K4.BexvQuJ.TnQ.lDfzk7j90LgqqcNM1MC",
+      "path": "register",
+      "name": "",
+      "id": 17
+    }
+  ]
+}
